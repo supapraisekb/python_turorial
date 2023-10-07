@@ -4,3 +4,4 @@ Each practice test given by the tutor are carried out here one at a time
 Tasks
 1. demonstrate a simple display of numbers and texts
 2. calculate how many minutes are in 80 days
+3. Write this there are x minutes in y days ! x and y are real numbers
